@@ -1,4 +1,5 @@
 # Campus-Placement-Analysis
+Download IPYNB or visit https://pratik-choudhari.github.io/Campus-Placement-Analysis/<br>
 EDA on campus placement dataset, source https://www.kaggle.com/benroshan/factors-affecting-campus-placement<br>
 Answers some questions such as:<br>
 - Which factor influenced a candidate in getting placed?
